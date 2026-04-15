@@ -1,18 +1,11 @@
 <div align="center">
-
-# Hi, I'm Jasurbek 👋
-
+   I'm Jasurbek 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Software+Developer;AI+%26+Data+Science+Student;Full-Stack+Web+Developer;Always+learning+new+things)](https://git.io/typing-svg)
-
 </div>
-
 ---
 
 🎓 **Student at KNU University** — Platform Software, Data Science, AI  
-💻 **Passionate about** Software Development, AI, and Web Technologies  
-
 ---
-
 ### 🚀 Currently working on:
 - 🏫 Edu Management System (**Director OS**) — deployed on Google Play
 - 🤖 AI-based SaaS projects
